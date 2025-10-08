@@ -50,3 +50,5 @@ if st.button("Сгенерировать текст"):
 
 st.markdown("---")
 st.info("Работу выполнили: Ибраева Асем и Киреева Анастасия")
+
+st.image("mem.jpg", caption="smetannic", width=600)
